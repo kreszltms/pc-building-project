@@ -1,0 +1,197 @@
+.first-section-background{
+    background-image: url("hatter-1.png");
+    background-size: cover;
+    height: 100vh;
+   
+}
+
+.second-title-section-background {
+    background-color: #000123;
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(section2-background.jpg); 
+        background-size: cover;
+        height: 100vh;
+        padding-top: 200px;
+        padding-bottom: 10px;
+}
+
+.second-section-background{
+    background-color: #000123;
+   
+    
+    background-size: cover;
+    height: 60vh;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+
+.third-section-backgorund{
+    background-image: url("hatter3.png");
+    background-size: cover;
+    height: 70vh;
+    padding-top: 300px;
+}
+
+.szolg-h3 {
+    font-size: 50px;
+}
+
+.szolg-p {
+    font-size: 20px;
+}
+
+.btn {
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 5px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+.kep{
+    width: 550px;
+}
+
+.title {
+    color: white;
+    font-size: 125px;
+    font-family: 'Archivo Black', sans-serif;
+    
+   
+}
+
+.h4-title {
+    color: white;
+    font-size: 60px;
+    margin-left: 100px;
+    font-family: 'Archivo Black', sans-serif;
+    
+}
+
+.h5-subtitle {
+    color: #ff0f7b;
+    font-size: 30px;
+    margin-left: 30px;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.subtitle1 {
+    color: #ff0f7b;
+    font-size: 30px;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.subtitle2 {
+    color: white;
+    font-size: 20px;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.szolgaltatasok {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.buttons-szolg {
+    background-color: #ff0f7b;
+    max-width: 150px;
+    border-radius: 45px;
+    justify-content: left;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+.buttons-szolg{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ff0f7b;
+    max-width: 200px;
+    font-size: 20px;
+    border-radius: 45px;
+    color: white;
+}
+
+
+.buttons-szolgal {
+    background-color: #ff0f7b;
+        max-width: 150px;
+        border-radius: 45px;
+        justify-content: left;
+        
+        margin-top: 25px;
+        display: flex;
+            justify-content: space-between;
+            
+            max-width: 200px;
+            font-size: 20px;
+            border-radius: 45px;
+            color: white;
+}
+
+.buttons-szolg:hover {
+    background-color: #ff0f7b;
+}
+
+.buttons-szolgal:hover {
+    background-color: #ff0f7b;
+}
+
+.gomb {
+    background-color: black;
+    border-radius: 100px;
+}
+.gomb:hover {
+    color: white;
+}
+
+a {
+    display: flex;
+    text-decoration: none;
+    text-align: left;
+    color: white;
+}
+
+.textarea {
+    width: 300px;
+}
+
+.szolgaltatasokszin {
+    color: #ff0f7b;
+}
+
+p {
+    color: white;
+}
+
+.email {
+    color: #ff0f7b;
+}
+
+.uzenet {
+    color: white;
+    font-size: 35px;
+    
+}
+
+.ikon{
+    color: white;
+    font-size: 50px;
+}
+
+.kuldes {
+    max-width: 150px;
+}
+
+.irjnekunk {
+   margin-left: 10px;
+}
+
+.footersection {
+    padding-left: 150px;
+}
+
+
